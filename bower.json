@@ -1,0 +1,24 @@
+{
+  "name": "bs4",
+  "description": "My First Gulp Project",
+  "main": "index.js",
+  "authors": [
+    "WAR"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "magnific-popup": "^1.1.0",
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1"
+  }
+}
